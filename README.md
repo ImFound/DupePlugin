@@ -1,0 +1,2 @@
+# DupePlugin
+/dupe command plugin
