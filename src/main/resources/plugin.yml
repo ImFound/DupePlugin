@@ -1,0 +1,11 @@
+name: DupePlugin
+version: '${project.version}'
+main: esp.storage.firstplugin.DupePluginMain
+api-version: 1.18
+authors: [ StorageESP ]
+description: /dupe command
+
+commands:
+  dupe:
+    description: Dupes the item in your hand
+    usage: /<command>
