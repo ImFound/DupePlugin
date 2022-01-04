@@ -1,6 +1,6 @@
 name: DupePlugin
 version: '${project.version}'
-main: esp.storage.firstplugin.DupePlugin
+main: esp.storage.dupecommand.DupePlugin
 api-version: 1.18
 authors: [ StorageESP ]
 description: /dupe command
